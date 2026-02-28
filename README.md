@@ -33,11 +33,19 @@ The project is organized into the following main parts:
     |-- .gitignore                  # Gitignore file for ignored files (e.g., venv, cache)
 ```
 
+---
+
+## 📽️ Project Demonstration
+This video demonstrates the execution of the Particle Swarm Optimization (PSO) algorithm and how it processes thermal detection logic in real-time.
+
+https://github.com/user-attachments/assets/fbf3f06f-300a-456f-9c89-dc329af13043
+
 ## Usage
 1. **Run the Detection Script:**
    After setting up, run the thermal detection script:
    ```bash
    python detection.py
+
    ```
 
 2. **Explanation of the Scripts:**
