@@ -38,7 +38,9 @@ The project is organized into the following main parts:
 ## 📽️ Project Demonstration
 This video demonstrates the execution of the Particle Swarm Optimization (PSO) algorithm and how it processes thermal detection logic in real-time.
 
-https://github.com/user-attachments/assets/fbf3f06f-300a-456f-9c89-dc329af13043
+![Detection](https://github.com/user-attachments/assets/22ea395e-361f-4e86-b20b-7d5ce3e69a6c)
+
+
 
 ## Usage
 1. **Run the Detection Script:**
